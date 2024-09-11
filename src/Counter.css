@@ -1,0 +1,21 @@
+button{
+    font-size: 20px;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.695);
+    color: white;
+
+}
+
+button:hover{
+    cursor: pointer;
+    border-color: blue;
+}
+
+h2{
+    margin: 10px;
+}
+h1{
+    margin: 10px;
+}
